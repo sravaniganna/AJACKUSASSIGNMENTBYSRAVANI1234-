@@ -14,5 +14,13 @@
     "consolidate": "^1.0.4",
     "express": "^5.1.0",
     "freemarker.js": "^1.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravaniganna/AJACKUSASSIGNMENTBYSRAVANI1234-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sravaniganna/AJACKUSASSIGNMENTBYSRAVANI1234-/issues"
+  },
+  "homepage": "https://github.com/sravaniganna/AJACKUSASSIGNMENTBYSRAVANI1234-#readme"
 }
